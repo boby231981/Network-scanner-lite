@@ -55,3 +55,10 @@ Privacy & Ethics
 Only scan networks you own or have permission to test. Respect policies and law.
 
 Tip: you can copy/paste from public OUI lists and keep only the first 6 hex + vendor.
+
+## ☕ Support & Donations
+If you find this project useful, consider buying me a coffee ❤️  
+
+- [![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-orange)](ko-fi.com/boby231981)
+- [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue)](https://paypal.me/boby231981)
+
